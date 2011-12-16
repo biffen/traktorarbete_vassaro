@@ -1,0 +1,28 @@
+<appendix xmlns="http://docbook.org/ns/docbook"
+          xmlns:xi="http://www.w3.org/2001/XInclude"
+          version="5.0"
+          lang="sv"
+          id="app_kartor" >
+  <title>Kartor</title>
+
+  <indexterm xml:id="idx_kartor" class='startofrange'>
+    <primary>kartor</primary>
+  </indexterm>
+
+  <section>
+    <title>Karta över öns hus</title>
+    <!-- TODO -->
+  </section>
+
+  <section>
+    <title>Karta över öns dass</title>
+    <indexterm>
+      <primary>dass</primary>
+      <secondary>karta</secondary>
+    </indexterm>
+    <!-- TODO -->
+  </section>
+
+  <indexterm startref="idx_kartor" class="endofrange" />
+
+</appendix>

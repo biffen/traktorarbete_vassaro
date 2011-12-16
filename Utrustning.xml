@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding="utf-8"?>
+<chapter xmlns='http://docbook.org/ns/docbook'
+         version="5.0"
+         lang="sv">
+  <title>Utrustning</title>
+
+  <section>
+    <title>Traktorer</title>
+    <indexterm>
+      <primary>traktorer</primary>
+    </indexterm>
+
+    <para>Vässarö har fyra traktorer; två
+    Fiat<indexterm><primary>Fiat</primary></indexterm> 45-66 (<glossterm
+    linkend="kain">Kain</glossterm> och <glossterm
+    linkend="abel">Abel</glossterm>), en
+    Hürlimann<indexterm><primary>Hürlimann</primary></indexterm> XA655
+    (<glossterm linkid="kermit">Kermit</glossterm>) samt en
+    Lamborghini<indexterm><primary>Lamborghini</primary></indexterm> R2.80
+    (<glossterm linkend="gandalf">Gandalf</glossterm>).  Fiatarna är i stort
+    sett likadana, Kermit är lite större och har fyrhjulsdrift (som normalt inte
+    är tillslagen).</para>
+  </section>
+
+  <section>
+    <title>Släp</title>
+    <indexterm>
+      <primary>släp</primary>
+    </indexterm>
+
+    <para>De vanligaste uppgifterna för Traktor innebär att transportera
+    någonting.  Till olika transporter används olika släp.  Hur man kopplar släp
+    till och från traktorer beskrivs i <xref linkend="sec_koppla_släp"
+    />.</para>
+
+    <sect2>
+      <title>Grönsläp</title>
+      <indexterm>
+        <primary>grönsläp</primary>
+      </indexterm>
+      <indexterm>
+        <primary>släp</primary>
+        <secondary>grön-</secondary>
+      </indexterm>
+
+      <para>Det finns tre så kallade grönsläp.  Dessa är rektangulära, med en
+      axel och fällbara <glossterm linkend="lem">lem</glossterm>.  Dessa släp
+      används till det mesta.  Tänk på att fälla en lem om något tungt skall
+      lyftas på eller av.  Det blir lättare och minskar risken för
+      olyckor.</para>
+    </sect2>
+
+    <sect2>
+      <title>Bussen</title>
+      <indexterm>
+        <primary>bussen</primary>
+      </indexterm>
+      <indexterm>
+        <primary>släp</primary>
+        <secondary>bussen</secondary>
+      </indexterm>
+
+      <para>Det finns ett släp som är byggt för att transportera matburar som
+      också är bra att skjutsa människor med.  Naturligtvis kör ni bara
+      människor som inte kan gå själva av någon anledning.  Är det barn eller
+      mycket packning på släpet, stäng dörrarna.</para>
+
+      <caution>
+        <para>När man transporterar matburar måste de säkras med spännband.  För
+        detta finns öglor på stolparna på bussens sidor.  Tänk på att burarna
+        rör på sig under färd, så se till att bandet är ordentligt spänt.</para>
+      </caution>
+    </sect2>
+
+    <sect2>
+      <title>Dassvagnen</title>
+      <indexterm>
+        <primary>dassvagnen</primary>
+      </indexterm>
+      <indexterm>
+        <primary>släp</primary>
+        <secondary>dassvagnen</secondary>
+      </indexterm>
+
+      <para>Till dassrundor används ett särskilt släp, byggt för att
+      transportera dasstunnor.  Dassvagnen är alltid smutsig och används inte
+      till något annat.  Mellan rundorna står den parkerad bredvid
+      traktorduschen.</para>
+    </sect2>
+
+    <sect2>
+      <title>Andra släp</title>
+      <indexterm>
+        <primary>släp</primary>
+        <secondary>övriga</secondary>
+      </indexterm>
+
+      <para>Det finns ett antal släp som är avsedda för särskilda ändamål och
+      inte används så ofta.  Bland annat
+      tippsläpet<indexterm><primary>tippsläp</primary></indexterm><indexterm><primary>släp</primary><secondary>tipp-</secondary></indexterm>,
+      grävarsläpet<indexterm><primary>grävarsläp</primary></indexterm><indexterm><primary>släp</primary><secondary>grävar-</secondary></indexterm>,
+      timmersläpen<indexterm><primary>timmersläp</primary></indexterm><indexterm><primary>släp</primary><secondary>timmer-</secondary></indexterm>
+      och
+      båttrailrarna<indexterm><primary>båttrailer</primary></indexterm><indexterm><primary>släp</primary><secondary>båttrailer</secondary></indexterm>.</para>
+
+      <para>Dessa släp står oftast parkerade vid masten eller västra stranden
+      för att vara ur vägen.  De är lite annorlunda att köra jämfört med de
+      vanliga släpen, så be om råd första gången från någon som kört släpet
+      förut.</para>
+    </sect2>
+  </section>
+
+  <section>
+    <title>Radio</title>
+    <indexterm>
+      <primary>radio</primary>
+    </indexterm>
+  </section>
+
+  <section>
+    <title>Personlig utrustning</title>
+    <indexterm>
+      <primary>klädsel</primary>
+    </indexterm>
+
+    <para>När man jobbar på Traktor är man utsatt för lite av varje och bör klä
+    sig därefter.  Ett par rejäla
+    skor<indexterm><primary>skor</primary></indexterm>, gärna med stålhätta, är
+    bra med tanke på alla tunga saker som man hanterar.</para>
+
+    <warning>
+      <para>Kör aldrig traktor i flip-flops, träskor eller liknande, på grund av
+      risken att skada fötterna.</para>
+    </warning>
+
+    <para>I övrigt oöm klädsel är att rekommendera.  Ett par arbetshandskar
+    kommer ofta till användning.</para>
+  </section>
+</chapter>

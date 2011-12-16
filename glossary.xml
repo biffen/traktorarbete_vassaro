@@ -1,0 +1,281 @@
+<?xml version='1.0' encoding="utf-8"?>
+<glossary xmlns='http://docbook.org/ns/docbook'
+          version="5.0"
+          lang="sv">
+  <title>Termer</title>
+
+  <glossdiv>
+    <title>A</title>
+
+    <glossentry id="abel">
+      <glossterm>Abel</glossterm>
+      <glossdef>
+        <para>Traktor, Fiat&#x00A0;45-66</para>
+      </glossdef>
+    </glossentry>
+
+  </glossdiv>
+
+  <glossdiv>
+    <title>B</title>
+
+    <glossentry id="backstugan">
+      <glossterm>Backstugan</glossterm>
+      <glossdef>
+        <para>Förläggningshus, ligger vid <glossterm
+        linkend="tc">TC</glossterm></para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="bakterier">
+      <glossterm>bakterier</glossterm>
+      <glossdef>
+        <para></para>
+      </glossdef>
+    </glossentry>
+
+  </glossdiv>
+
+  <glossdiv>
+    <title>D</title>
+
+    <glossentry id="dassrunda">
+      <glossterm>dassrunda</glossterm>
+      <glossdef>
+        <para><!-- TODO --></para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="dasstunna">
+      <glossterm>dasstunna</glossterm>
+      <glossdef>
+        <para>Svart plasttunna.</para>
+        <glossseealso otherterm="gristunna">Gristunna</glossseealso>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="dassvagnen">
+      <glossterm>dassvagnen</glossterm>
+      <glossdef>
+        <para></para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="djuphamn">
+      <glossterm>Djuphamn</glossterm>
+      <glossdef>
+        <para></para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="dockskåpet">
+      <glossterm>dockskåpet</glossterm>
+      <glossdef>
+        <para><!-- TODO --></para>
+      </glossdef>
+    </glossentry>
+
+  </glossdiv>
+
+  <glossdiv>
+    <title>G</title>
+
+    <glossentry id="gandalf">
+      <glossterm>Gandalf</glossterm>
+      <glossdef>
+        <para>Traktor, Lamborghini&#x00A0;R2.80</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="gristunna">
+      <glossterm>gristunna</glossterm>
+      <glossdef>
+        <para>Grön plasttunna i vilken man slänger matrester och annat
+        komposterbart. Får <emphasis>aldrig</emphasis> användas till
+        dass.</para>
+        <glossseealso otherterm="dasstunna">Dasstunna</glossseealso>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="grupp">
+      <glossterm>grupp</glossterm>
+      <glossdef>
+        <para><!-- TODO --></para>
+      </glossdef>
+    </glossentry>
+
+  </glossdiv>
+
+  <glossdiv>
+    <title>I</title>
+
+    <glossentry id="inten">
+      <glossterm>Inten</glossterm>
+      <glossdef>
+        <para></para>
+      </glossdef>
+    </glossentry>
+
+  </glossdiv>
+
+  <glossdiv>
+    <title>K</title>
+
+    <glossentry id="kain">
+      <glossterm>Kain</glossterm>
+      <glossdef>
+        <para>Traktor, Fiat&#x00A0;45-66</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="katapulten">
+      <glossterm>katapulten</glossterm>
+      <glossdef>
+        <para></para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="kermit">
+      <glossterm>Kermit</glossterm>
+      <glossdef>
+        <para>Traktor, Hürlimann&#x00A0;XA-655</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="köket">
+      <glossterm>Köket</glossterm>
+      <glossdef>
+        <para><!-- TODO --></para>
+      </glossdef>
+    </glossentry>
+
+  </glossdiv>
+
+  <glossdiv>
+    <title>L</title>
+
+    <glossentry id="lem">
+      <glossterm>lem</glossterm>
+      <glossdef>
+        <para><!-- TODO --></para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="lillvärdinnor">
+      <glossterm>Lillvärdinnor</glossterm>
+      <glossdef>
+        <para><!-- TODO --></para>
+      </glossdef>
+    </glossentry>
+
+  </glossdiv>
+
+  <glossdiv>
+    <title>M</title>
+
+    <glossentry id="mixa">
+      <glossterm>mixa</glossterm>
+      <glossdef>
+        <para></para>
+      </glossdef>
+    </glossentry>
+
+  </glossdiv>
+
+  <glossdiv>
+    <title>R</title>
+
+    <glossentry id="rötis">
+      <glossterm>Rötis</glossterm>
+      <glossdef>
+        <para><!-- TODO --></para>
+      </glossdef>
+    </glossentry>
+
+  </glossdiv>
+
+  <glossdiv>
+    <title>S</title>
+
+    <glossentry id="stick">
+      <glossterm>stick</glossterm>
+      <glossdef>
+        <para><!-- TODO --></para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="storgårn">
+      <glossterm>Storgår'n</glossterm>
+      <glossdef>
+        <para><!-- TODO --></para>
+      </glossdef>
+    </glossentry>
+
+  </glossdiv>
+
+  <glossdiv>
+    <title>T</title>
+
+    <glossentry id="traktor">
+      <glossterm>Traktor</glossterm>
+      <glossdef>
+        <para></para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="tc">
+      <glossterm>Traktorcentralen</glossterm>
+      <acronym>TC</acronym>
+      <glossdef>
+        <para><!-- TODO --></para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="traktorduschen">
+      <glossterm>traktorduschen</glossterm>
+      <glossdef>
+        <para></para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="tratten">
+      <glossterm>tratten</glossterm>
+      <glossdef>
+        <para></para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="tvättstugan">
+      <glossterm>tvättstugan</glossterm>
+      <glossdef>
+        <para><!-- TODO --></para>
+      </glossdef>
+    </glossentry>
+
+  </glossdiv>
+
+  <glossdiv>
+    <title>V</title>
+
+    <glossentry id="verkstaden">
+      <glossterm>Verkstaden</glossterm>
+      <glossdef>
+        <para></para>
+      </glossdef>
+    </glossentry>
+
+  </glossdiv>
+
+  <glossdiv>
+    <title>Ä</title>
+
+    <glossentry id="äng">
+      <glossterm>äng</glossterm>
+      <glossdef>
+        <para><!-- TODO --></para>
+      </glossdef>
+    </glossentry>
+
+  </glossdiv>
+
+</glossary>

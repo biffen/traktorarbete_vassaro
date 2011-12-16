@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding="utf-8"?>
+<chapter xmlns='http://docbook.org/ns/docbook'
+         version="5.0"
+         lang="sv">
+  <title>Att köra traktor</title>
+
+  <section>
+    <title>Regler</title>
+    <indexterm>
+      <primary>regler</primary>
+    </indexterm>
+
+    <para>Traktorerna är stora, tunga och kraftfulla, och skulle kunna orsaka
+    mycket skada om de användes på fel sätt.</para>
+
+    <itemizedlist>
+      <listitem>
+        <para>Den som kör traktorn sitter själv i hytten, med dörrarna
+        stängda. Övriga står på släpet och håller i sig.  Att sitta ner går
+        också bra, men kan vara obekvämt.</para>
+      </listitem>
+      <listitem>
+        <para>Man får inte köra för fort!  Se <xref linkend="sec_traktorteori"
+        />.</para>
+      </listitem>
+      <listitem>
+        <para>Om det är barn i närheten saktar man ner, eller stannar helt och
+        låter barnen passera</para>
+      </listitem>
+      <listitem>
+        <para>Ingen får befinna sig mellan traktorn och släpet, särskilt inte
+        när traktorn rör sig</para>
+      </listitem>
+      <listitem>
+        <para>Ingen får åka sittande på lemmarna, det är stor risk att ramla
+        av</para>
+      </listitem>
+      <listitem>
+        <para>Ingen får gå eller springa direkt bakom traktorn eller släpet, då
+        det kan gå illa om traktorn plötsligt stannar</para>
+      </listitem>
+    </itemizedlist>
+
+  </section><!-- Regler -->
+
+  <section>
+    <title>Din egen säkerhet</title>
+
+    <para>Du som jobbar på Traktor är mer utsatt än andra.</para>
+
+    <!-- TODO Ergonomi -->
+
+  </section><!-- Din egen säkerhet -->
+
+  <section>
+    <title>Körning</title>
+
+    <para>Har du inte tidigare kört ett motordrivet fordon bör du först bekanta
+    dig med hur de huvudsakliga delarna i de vanligaste fordon fungerar.  Har du
+    å andra sidan kört bil, moped eller till och med traktor tidigare kan du gå
+    vidare till <xref linkend="sec_traktorteori" />.</para>
+
+    <section>
+      <title>Motor och transmission</title>
+      <indexterm>
+        <primary>motor</primary>
+      </indexterm>
+      <indexterm>
+        <primary>transmission</primary>
+      </indexterm>
+
+      <para>De flesta motordrivna vägfordon idag har en förbränningsmotor av
+      kolvtyp.  Denna för kraften via en koppling, genom transmissionen och till
+      de drivande hjulen.  Vässarös traktorer har motorer med tre respektive
+      fyra cylindrar i rak konfiguration och drivs alla med diesel.</para>
+
+    </section><!-- Motor och transmission -->
+
+    <section xml:id="sec_traktorteori">
+      <title>Traktorteori</title>
+
+      <para>Även om du kört traktor förut finns det vissa saker som gäller för
+      just Vässarös traktorer.</para>
+
+      <important>
+        <para>Av naturliga skäl kör man inte för fort.  En tumregel är växel
+        III,3 för Fiatarna, eller Kanin,3 för Kermit, och ca 1&#x2009;500 rpm.
+        Högre växlar är inte
+        tillåtna.<indexterm><primary>växlar</primary></indexterm></para>
+
+        <para>Självklart anpassar man
+        hastigheten<indexterm><primary>hastighet</primary></indexterm> efter
+        släp, omgivning och känsla.</para>
+      </important>
+
+    </section><!-- Traktorteori -->
+
+    <section>
+      <title>Traktorernas interiör</title>
+
+      <para>Se <xref linkend="app_interiör" /> för en förteckning av de
+      viktigaste reglagen och detaljerna i de två traktormodeller som används
+      normalt.</para>
+
+    </section><!-- Traktorernas interiör -->
+
+    <section>
+      <title>Starta traktorn</title>
+
+      <para>Innan du sätter dig i traktorn, kolla att eventuellt släp är korrekt
+      kopplat (se <xref linkend="sec_koppla_släp" />) samt att det inte finns
+      några hinder för traktorn eller människor i vägen.  Passa också på att
+      planera vilken väg du ska köra för att komma iväg, särskilt om du måste
+      backa eller vända.</para>
+
+      <itemizedlist>
+        <listitem>
+          <para>Väl i traktorn slå på huvudströmbrytaren</para>
+        </listitem>
+        <listitem>
+          <para>Om du sitter i Kermit, tryck in stoppknappen</para>
+        </listitem>
+        <listitem>
+          <para>Trampa ned kopplingspedalen</para>
+        </listitem>
+        <listitem>
+          <para>Lägg i önskad växel.  III,3 eller Kanin,3 brukar vara lagom, men
+          välj en passande växel efter situationen.</para>
+        </listitem>
+        <listitem>
+          <para>Vrid om tändningsnyckeln till startläge.  När du hör att motorn
+          startat släpp nyckeln.</para>
+        </listitem>
+        <listitem>
+          <para>Lägg ur parkeringsbromsen</para>
+        </listitem>
+        <listitem>
+          <para>Släpp långsamt upp kopplingspedalen och <quote>möt</quote> med
+          gaspedalen</para>
+        </listitem>
+      </itemizedlist>
+
+    </section><!-- Starta traktorn -->
+
+    <section>
+      <title>Köra</title>
+
+      <para>Håll hastigheten med gaspedalen och håll uppsikt åt alla håll så att
+      ingen kommer för nära traktorn.</para>
+
+      <para>När du kör i en kurva med ett släp måste du ta ut svängen ordentligt
+      eftersom släpet alltid svänger med en mindre radie än traktorns.</para>
+
+    </section><!-- Köra -->
+
+    <section>
+      <title>Stanna</title>
+
+      <!-- TODO parkeringsbroms etc. -->
+
+    </section><!-- Stanna -->
+
+  </section>
+
+  <section xml:id="sec_koppla_släp">
+    <title>Koppla släp</title>
+    <indexterm>
+      <primary>släp</primary>
+      <secondary>att koppla</secondary>>
+    </indexterm>
+
+  </section><!-- Koppla släp -->
+
+</chapter>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding="utf-8" ?>
+<book xmlns="http://docbook.org/ns/docbook"
+      xmlns:xi="http://www.w3.org/2001/XInclude"
+      version="5.0"
+      lang="sv" >
+  <info>
+    <title>Traktorarbete Vässarö</title>
+    <edition>0.3</edition>
+    <copyright>
+      <year>2011</year>
+      <holder>Theo Willows</holder>
+    </copyright>
+    <legalnotice>
+      <para>Härmed ges rätt att kopiera, distribuera och/eller modifiera detta
+      dokument enligt <link
+      href="http://www.gnu.org/copyleft/fdl.html"><citetitle
+      pubwork="webpage">GNU Free Documentation License</citetitle></link>
+      (version 1.3 eller någon senare version publiserad av Free Software
+      Foundation) utan förändrade avsnitt eller omgärdande text.</para>
+    </legalnotice>
+    <author>
+      <orgname class="nonprofit">Fordonskommittén</orgname>
+    </author>
+    <collab>
+      <person>
+        <personname>
+          <firstname>Theo</firstname>
+          <surname>Willows</surname>
+          <email>theo@willows.se</email>
+        </personname>
+      </person>
+    </collab>
+    <revhistory>
+      <revision>
+        <revnumber>0.3</revnumber>
+        <date>2011-07-21</date>
+        <authorinitials>TW</authorinitials>
+        <revremark>Flytt från LaTeX till DocBook</revremark>
+      </revision>
+    </revhistory>
+  </info>
+
+  <xi:include href="Introduktion.xml" />
+  <xi:include href="Utrustning.xml" />
+  <xi:include href="Viktiga_platser.xml" />
+  <xi:include href="Att_kora_traktor.xml" />
+  <xi:include href="Arbetsuppgifter.xml" />
+  <xi:include href="Traktorvard.xml" />
+
+  <xi:include href="bil_Traktorernas_interior.xml" />
+  <xi:include href="bil_Kartor.xml" />
+
+  <xi:include href="glossary.xml" />
+
+  <index />
+
+</book>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding="utf-8"?>
+<chapter xmlns="http://docbook.org/ns/docbook"
+         version="5.0"
+         lang="sv">
+  <title>Traktorvård</title>
+  <indexterm>
+    <primary>traktorvård</primary>
+  </indexterm>
+
+  <section>
+    <title>Daglig vård</title>
+    <indexterm>
+      <primary>traktorvård</primary>
+      <secondary>daglig</secondary>
+    </indexterm>
+
+    <para>Traktorer slits hårt och för att undvika allvarliga fel bör vissa
+    saker kontrolleras dagligen:</para>
+
+    <itemizedlist mark='opencircle'>
+      <listitem>Bränslenivå (se <xref linkend="sec_tankning" />)</listitem>
+      <listitem>Kylvattennivå</listitem>
+      <listitem>Oljenivå och -kvalité</listitem>
+      <listitem>Ringtryck samt skador på däck</listitem>
+    </itemizedlist>
+  </section>
+
+  <section>
+    <title>Veckovård</title>
+    <indexterm>
+      <primary>traktorvård</primary>
+      <secondary>vecko-</secondary>
+    </indexterm>
+
+    <para>Vissa saker behöver inte kontrolleras varje dag, men en gång i veckan
+    bör man kontrollera:</para>
+
+    <itemizedlist mark='opencircle'>
+      <listitem>Att hjulbultar sitter som de ska</listitem>
+      <listitem>Fläktremmens spänst och kvalité</listitem>
+    </itemizedlist>
+
+    <para>Skulle något vara fel, prata med din PL.</para>
+  </section>
+
+  <section>
+    <title>Tvätt</title>
+    <indexterm>
+      <primary>traktorer</primary>
+      <secondary>att tvätta</secondary>
+    </indexterm>
+    <!-- TODO -->
+  </section>
+
+  <section id="sec_tankning">
+    <title>Tankning</title>
+    <indexterm>
+      <primary>tankning</primary>
+    </indexterm>
+    <indexterm>
+      <primary>bränsle</primary>
+    </indexterm>
+    <indexterm>
+      <primary>diesel</primary>
+    </indexterm>
+    <!-- TODO -->
+  </section>
+
+  <section>
+    <title>Om en traktor går sönder</title>
+    <indexterm>
+      <primary>traktorer</primary>
+      <secondary>haveri</secondary>
+    </indexterm>
+    <!-- TODO -->
+  </section>
+</chapter>

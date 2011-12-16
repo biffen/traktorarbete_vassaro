@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding="utf-8"?>
+<chapter xmlns='http://docbook.org/ns/docbook'
+         version="5.0"
+         lang="sv">
+  <title>Viktiga platser</title>
+
+  Se även <xref linkend="app_kartor" />.
+
+  <section>
+    <title>Djuphamn</title>
+    <indexterm>
+      <primary>Djuphamn</primary>
+    </indexterm>
+
+    <para>Alla transporter till och från ön går via <glossterm
+    linkend="djuphamn">Djuphamn</glossterm>, vilket gör den till mål eller
+    utgångspunkt för många traktortransporter.</para>
+  </section>
+
+  <section>
+    <title>Intendenturen</title>
+    <indexterm>
+      <primary>Intendenturen</primary>
+    </indexterm>
+
+    <para>I anslutning till matsalen ligger Intendenturen, eller <glossterm
+    linkend="inten">Inten</glossterm>.  Här förvaras livsmedel för både
+    <glossterm linkend="köket">Köket</glossterm> och de <glossterm
+    linkend="grupp">grupper</glossterm> som lagar mat ute.</para>
+  </section>
+
+  <section>
+    <title>Lägerängar</title>
+    <indexterm>
+      <primary>ängar</primary>
+    </indexterm>
+
+    <para>De <glossterm linkend="grupp">grupper</glossterm> som bor ute, bor på
+    Vässarös <glossterm linkend="äng">ängar</glossterm>.  Kör inte traktor på
+    ängarna, då får de stackars grupperna sova i traktorspår.  Vid transporter
+    till eller från ängarna, stanna på vägen närmast ängen.</para>
+
+    <para>Det är <glossterm linkend="traktor">Traktors</glossterm> uppgift att
+    slå ängarna, se <xref linkend="sec_slå_ängar" /> för närmare
+    instruktioner.</para>
+  </section>
+
+  <section>
+    <title>Rötis</title>
+    <indexterm>
+      <primary>Rötis</primary>
+    </indexterm>
+
+    <para><glossterm linkend="rötis">Rötis</glossterm> kallas området där latrin
+    töms i tankar och matavfall töms i stora kompostbassänger.  Rötis ligger på
+    öns västra sida längs vägen mot betongbryggan.</para>
+
+    <para>Rötis luktar ganska tydligt, och är fullt med bakterier.  De som inte
+    kör dassrunda har inget där att göra.</para>
+  </section>
+
+  <section>
+    <title>Traktorcentralen</title>
+    <indexterm>
+      <primary>Traktorcentralen</primary>
+    </indexterm>
+
+    <para><glossterm linkend="tc">TC</glossterm>, kallas vändplanen och husen
+    där traktorerna och släpen parkeras.  Där finns <glossterm
+    linkend="verkstaden">verkstaden</glossterm> och så kallade <glossterm
+    linkend="stick">stick</glossterm>.  I sticken parkerar man släp eller
+    förvarar stora saker som bör stå under tak.  I änden av ena sticket ligger
+    <glossterm linkend="backstugan">Backstugan</glossterm>, ett förläggningsrum
+    för fyra personer.  Intill backstugan, i ett stick, ligger <glossterm
+    linkend="traktorduschen">traktorduschen</glossterm>.</para>
+  </section>
+</chapter>
