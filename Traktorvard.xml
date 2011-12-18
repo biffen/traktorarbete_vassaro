@@ -18,12 +18,21 @@
     saker kontrolleras dagligen:</para>
 
     <itemizedlist mark='opencircle'>
-      <listitem>Bränslenivå (se <xref linkend="sec_tankning" />)</listitem>
-      <listitem>Kylvattennivå</listitem>
-      <listitem>Oljenivå och -kvalité</listitem>
-      <listitem>Ringtryck samt skador på däck</listitem>
+      <listitem>
+        <para>Bränslenivå (se <xref linkend="sec_tankning" />)</para>
+      </listitem>
+      <listitem>
+        <para>Kylvattennivå</para>
+      </listitem>
+      <listitem>
+        <para>Oljenivå och -kvalité</para>
+      </listitem>
+      <listitem>
+        <para>Ringtryck samt skador på däck</para>
+      </listitem>
     </itemizedlist>
-  </section>
+
+  </section><!-- Daglig värd -->
 
   <section>
     <title>Veckovård</title>
@@ -36,12 +45,17 @@
     bör man kontrollera:</para>
 
     <itemizedlist mark='opencircle'>
-      <listitem>Att hjulbultar sitter som de ska</listitem>
-      <listitem>Fläktremmens spänst och kvalité</listitem>
+      <listitem>
+        <para>Att hjulbultar sitter som de ska</para>
+      </listitem>
+      <listitem>
+        <para>Fläktremmens spänst och kvalité</para>
+      </listitem>
     </itemizedlist>
 
     <para>Skulle något vara fel, prata med din PL.</para>
-  </section>
+
+  </section><!-- Veckovård -->
 
   <section>
     <title>Tvätt</title>
@@ -49,8 +63,10 @@
       <primary>traktorer</primary>
       <secondary>att tvätta</secondary>
     </indexterm>
+
     <!-- TODO -->
-  </section>
+
+  </section><!-- Tvätt -->
 
   <section id="sec_tankning">
     <title>Tankning</title>
@@ -63,8 +79,10 @@
     <indexterm>
       <primary>diesel</primary>
     </indexterm>
+
     <!-- TODO -->
-  </section>
+
+  </section><!-- Tankning -->
 
   <section>
     <title>Om en traktor går sönder</title>
@@ -72,6 +90,9 @@
       <primary>traktorer</primary>
       <secondary>haveri</secondary>
     </indexterm>
+
     <!-- TODO -->
-  </section>
+
+  </section><!-- Om en traktor går sönder -->
+
 </chapter>

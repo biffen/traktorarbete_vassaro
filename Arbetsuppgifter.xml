@@ -9,7 +9,8 @@
 
     <para>Vanligtvis träffas Traktor och ö-chefen efter frukost för att gå
     igenom dagens arbete.</para>
-  </section>
+
+  </section><!-- Morgonmöte -->
 
   <section>
     <title>Arbetsfördelning</title>
@@ -18,7 +19,8 @@
     som behöver göras, kan det vara bäst att låta PL planera arbetet, och inte
     åta sig extra uppgifter utan att kolla med PL.  Detta för att inte förstöra
     planeringen och orsaka onödig stress.</para>
-  </section>
+
+  </section><!-- Arbetsfördelning -->
 
   <section>
     <title>Rutinarbete</title>
@@ -66,9 +68,11 @@
           <secondary>bil-</secondary>
         </indexterm>
 
-      </section>
-    </section>
-  </section>
+      </section><!-- Egna släp -->
+
+    </section><!-- Transportera kårgods -->
+
+  </section><!-- Rutinarbete -->
 
   <section>
     <title>Tömma dass</title>
@@ -106,18 +110,42 @@
       linkend="dassvagnen">Dassvagnen</glossterm>, och fyll på vid behov:</para>
 
       <itemizedlist>
-        <listitem>Tomma tunnor, både svarta och gröna</listitem>
-        <listitem>Lock, båda färger</listitem>
-        <listitem>Pappersrullar</listitem>
-        <listitem>Tvål</listitem>
-        <listitem>Soppåsar</listitem>
-        <listitem>Sopsäck</listitem>
-        <listitem>Rengöringsmedel D10 (i spray-flaska) och såpa</listitem>
-        <listitem>Wettextrasor</listitem>
-        <listitem>Hinkar</listitem>
-        <listitem>Slang</listitem>
-        <listitem>Borstar</listitem>
-        <listitem>Handskar</listitem>
+        <listitem>
+          <para>Tomma tunnor, både svarta och gröna</para>
+        </listitem>
+        <listitem>
+          <para>Lock, båda färger</para>
+        </listitem>
+        <listitem>
+          <para>Pappersrullar</para>
+        </listitem>
+        <listitem>
+          <para>Tvål</para>
+        </listitem>
+        <listitem>
+          <para>Soppåsar</para>
+        </listitem>
+        <listitem>
+          <para>Sopsäck</para>
+        </listitem>
+        <listitem>
+          <para>Rengöringsmedel D10 (i spray-flaska) och såpa</para>
+        </listitem>
+        <listitem>
+          <para>Wettextrasor</para>
+        </listitem>
+        <listitem>
+          <para>Hinkar</para>
+        </listitem>
+        <listitem>
+          <para>Slang</para>
+        </listitem>
+        <listitem>
+          <para>Borstar</para>
+        </listitem>
+        <listitem>
+          <para>Handskar</para>
+        </listitem>
       </itemizedlist>
 
       <indexterm>
@@ -150,7 +178,8 @@
       (Kermit används inte till dassrundor).  Vagnen kan fyllas med två lager
       tunnor.  Skulle det bli fler tunnor på en runda får man åka till Rötis och
       ställa av.</para>
-    </section>
+
+    </section><!-- Förberedelser -->
 
     <section>
       <title>Byta tunnor</title>
@@ -185,7 +214,8 @@
       lämplig plats, och häll innehållet från den ena till den andra.  Var
       försiktig så det inte stänker.  Den tomma tunnan kan sedan ställas tillbak
       på ett dass.</para>
-    </section>
+
+    </section><!-- Byta tunnor -->
 
     <section>
       <title>Städa</title>
@@ -198,34 +228,54 @@
       om.</para>
 
       <itemizedlist>
-        <listitem>Spraya D10 på sitsen och locket och torka av med en trasa.
-        Gör samma sak med handfat (även på väggen runt handfatet), kran,
-        dörrhandtag och hasp.  Tanken är att allt som besökarna kommer i kontakt
-        med ska desinficeras och rengöras.</listitem>
-        <listitem>Om det finns en spegel och den är smutsig, rengör
-        den.</listitem>
-        <listitem>Om det finns en lampknapp, torka av den med en fuktig trasa,
-        spraya inte!</listitem>
-        <listitem> Medan tunnan är borta, passa på att städa golvet:
-        <itemizedlist>
-          <listitem>Börja med att ta bort större skräp.  Barr, löv och jord kan
-          ni sopa ut i naturen, annat skräp slängs i sopsäcken på
-          vagnen.</listitem>
-          <listitem>Finns det ett handfat så använd slangen.  Håll den ena änden
-          mot kranen, vrid på och spola golvet.</listitem>
-          <listitem>Finns det inget handfat, använd en hink.  Planera så att ni
-          fyller på hinkarna där det finns kran innan ni beger er till ett dass
-          utan vatten.</listitem>
-          <listitem>Häll på lite såpa och skura med en borste.  Det blir rent
-          och luktar gott!</listitem>
-        </itemizedlist>
+        <listitem>
+          <para>Spraya D10 på sitsen och locket och torka av med en trasa.  Gör
+          samma sak med handfat (även på väggen runt handfatet), kran,
+          dörrhandtag och hasp.  Tanken är att allt som besökarna kommer i
+          kontakt med ska desinficeras och rengöras.</para>
         </listitem>
-        <listitem>Töm papperskorgar efter behov och släng påsarna i sopsäcken på
-        vagnen.  Sätt i nya påsar.</listitem>
-        <listitem>Se till att det finns papper på alla dass.  Om det är nästan
-        slut, ställ en ny rulle bredvid.</listitem>
-        <listitem>På dassen vid matsalen samt dassen på tunet ska det finnas
-        tvål.  Fyll på vid behov.  Inga andra dass har tvål.</listitem>
+        <listitem>
+          <para>Om det finns en spegel och den är smutsig, rengör den.</para>
+        </listitem>
+        <listitem>
+          <para>Om det finns en lampknapp, torka av den med en fuktig trasa,
+          spraya inte!</para>
+        </listitem>
+        <listitem>
+          <para>Medan tunnan är borta, passa på att städa golvet:</para>
+          <itemizedlist>
+            <listitem>
+              <para>Börja med att ta bort större skräp.  Barr, löv och jord kan
+              ni sopa ut i naturen, annat skräp slängs i sopsäcken på
+              vagnen.</para>
+            </listitem>
+            <listitem>
+              <para>Finns det ett handfat så använd slangen.  Håll den ena änden
+              mot kranen, vrid på och spola golvet.</para>
+            </listitem>
+            <listitem>
+              <para>Finns det inget handfat, använd en hink.  Planera så att ni
+              fyller på hinkarna där det finns kran innan ni beger er till ett
+              dass utan vatten.</para>
+            </listitem>
+            <listitem>
+              <para>Häll på lite såpa och skura med en borste.  Det blir rent
+              och luktar gott!</para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+        <listitem>
+          <para>Töm papperskorgar efter behov och släng påsarna i sopsäcken på
+          vagnen.  Sätt i nya påsar.</para>
+        </listitem>
+        <listitem>
+          <para>Se till att det finns papper på alla dass.  Om det är nästan
+          slut, ställ en ny rulle bredvid.</para>
+        </listitem>
+        <listitem>
+          <para>På dassen vid matsalen samt dassen på tunet ska det finnas tvål.
+          Fyll på vid behov.  Inga andra dass har tvål.</para>
+        </listitem>
       </itemizedlist>
 
       <para>Innan ni lämnar ett dass ser ni till att ni inte missat något och
@@ -245,12 +295,14 @@
         storstäda alla dass på en gång.</para>
 
         <para>Utöver den vanliga städningen ovan, skurar ni noggrant nedre delen
-        av väggarna och rengör övre väggar, tak etc.  efter behov.</para>
+        av väggarna och rengör övre väggar, tak etc. efter behov.</para>
 
         <para>Skura undersidan av handfatet, avloppsrör etc.  Skura framsidan på
         sitsen och utrymmet under sitsen.</para>
-      </section>
-    </section>
+
+      </section><!-- Storstädning -->
+
+    </section><!-- Städa -->
 
     <section>
       <title>Gristunnor</title>
@@ -272,7 +324,8 @@
         <para>Det är viktigt att skilja på svarta och gröna tunnor och lock, för
         att inte få in bakterier i köket via kökets soprum.</para>
       </caution>
-    </section>
+
+    </section><!-- Gristunnor -->
 
     <section>
       <title>Fettbrunnen</title>
@@ -292,7 +345,8 @@
       man lämna, det är svårt att få upp.  Sätt lock på tunnorna så de inte
       fylls med regnvatten.  Blir en tunna full så ta med den till släpet och
       ställ tillbak en tom tunna och ett lock.</para>
-    </section>
+
+    </section><!-- Fettbrunnen -->
 
     <section>
       <title>Tömma</title>
@@ -337,7 +391,8 @@
       den upp och ner intill väggen att torka.</para>
 
       <para>Locken rengörs på motsvarande sätt.</para>
-    </section>
+
+    </section><!-- Tömma -->
 
     <section>
       <title>Återställning</title>
@@ -352,7 +407,8 @@
 
       <para>Innan ni lämnar Rötis ska ni se till att allt ser bra ut, att ni
       inte glömt något och att allt är på sin plats.</para>
-    </section>
+
+    </section><!-- Återställning -->
 
     <section>
       <title>Tillbak i TC</title>
@@ -378,7 +434,8 @@
       pratar med kökspersonalen så sparar de mat åt de som kör runda.  När allt
       är klart efter rundan går ni och pratar snällt med köket så får ni er
       mat.</para>
-    </section>
+
+    </section><!-- Tillbak i TC -->
 
     <section>
       <title>Erfarenhet</title>
@@ -388,8 +445,10 @@
       om om uppgifterna och ta gemensamma raster.</para>
 
       <indexterm startref="idx_tömma_dass" class="endofrange" />
-    </section>
-  </section>
+
+    </section><!-- Erfarenhet -->
+
+  </section><!-- Tömma dass -->
 
   <section>
     <title>Hämta sopor</title>
@@ -410,8 +469,10 @@
         <primary>sopor</primary>
         <secondary>sortering</secondary>
       </indexterm>
-    </section>
-  </section>
+
+    </section><!-- Sopsortering -->
+
+  </section><!-- Hämta sopor -->
 
   <section>
     <title>Leverera mat</title>
@@ -423,28 +484,32 @@
     </indexterm>
 
     <!-- TODO Ordning på burar -->
-  </section>
+
+  </section><!-- Leverera mat -->
 
   <section>
     <title>Leverera glass</title>
     <indexterm>
       <primary>glass</primary>
     </indexterm>
-  </section>
+
+  </section><!-- Leverera glass -->
 
   <section>
     <title>Returnera burar</title>
     <indexterm>
       <primary>burar</primary>
     </indexterm>
-  </section>
+
+  </section><!-- Returnera burar -->
 
   <section>
     <title>Köra returpapper</title>
     <indexterm>
       <primary>returpapper</primary>
     </indexterm>
-  </section>
+
+  </section><!-- Köra returpapper -->
 
   <section id="sec_slå_ängar">
     <title>Slå ängar</title>
@@ -452,6 +517,7 @@
       <primary>ängar</primary>
       <secondary>att slå</secondary>
     </indexterm>
-  </section>
+
+  </section><!-- Slå ängar -->
 
 </chapter>

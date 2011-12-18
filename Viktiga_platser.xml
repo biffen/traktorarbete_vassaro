@@ -15,7 +15,8 @@
     <para>Alla transporter till och från ön går via <glossterm
     linkend="djuphamn">Djuphamn</glossterm>, vilket gör den till mål eller
     utgångspunkt för många traktortransporter.</para>
-  </section>
+
+  </section><!-- Djuphamn -->
 
   <section>
     <title>Intendenturen</title>
@@ -27,7 +28,8 @@
     linkend="inten">Inten</glossterm>.  Här förvaras livsmedel för både
     <glossterm linkend="köket">Köket</glossterm> och de <glossterm
     linkend="grupp">grupper</glossterm> som lagar mat ute.</para>
-  </section>
+
+  </section><!-- Intendenturen -->
 
   <section>
     <title>Lägerängar</title>
@@ -43,7 +45,8 @@
     <para>Det är <glossterm linkend="traktor">Traktors</glossterm> uppgift att
     slå ängarna, se <xref linkend="sec_slå_ängar" /> för närmare
     instruktioner.</para>
-  </section>
+
+  </section><!-- Lägerängar -->
 
   <section>
     <title>Rötis</title>
@@ -57,7 +60,8 @@
 
     <para>Rötis luktar ganska tydligt, och är fullt med bakterier.  De som inte
     kör dassrunda har inget där att göra.</para>
-  </section>
+
+  </section><!-- Rötis -->
 
   <section>
     <title>Traktorcentralen</title>
@@ -73,5 +77,7 @@
     <glossterm linkend="backstugan">Backstugan</glossterm>, ett förläggningsrum
     för fyra personer.  Intill backstugan, i ett stick, ligger <glossterm
     linkend="traktorduschen">traktorduschen</glossterm>.</para>
-  </section>
+
+  </section><!-- Traktorcentralen -->
+
 </chapter>

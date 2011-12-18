@@ -23,8 +23,6 @@
       <primary>Kain</primary>
     </indexterm>
 
-
-
     <figure id="fig_interiör_fiat_45-66">
       <title>Interiör Fiat 45-66</title>
       <mediaobject>
@@ -37,25 +35,58 @@
     <para>Se <xref linkend="fig_interiör_fiat_45-66" /></para>
 
     <orderedlist numeration="arabic">
-      <listitem><para>Kontroll- och varningslampor</para></listitem>
-      <listitem><para>Kylvattentemperaturmätare</para></listitem>
-      <listitem><para>Signalhorn</para></listitem>
-      <listitem><para>Reglage för belysning och
-      vindrutetorkare</para></listitem>
-      <listitem><para>Gruppväxelspak; R&#x2013;I&#x2013;III</para></listitem>
-      <listitem><para>Kopplingspedal</para></listitem>
-      <listitem><para>Parkeringsbroms</para></listitem>
-      <listitem><para>Huvudströmbrytare</para></listitem>
-      <listitem><para>Bränslemätare</para></listitem>
-      <listitem><para>Varvtalsmätare</para></listitem>
-      <listitem><para>Handgasspak</para></listitem>
-      <listitem><para>Ratt</para></listitem>
-      <listitem><para>Tändningsnyckel</para></listitem>
-      <listitem><para>Stegväxelspak; 1&#x2013;4</para></listitem>
-      <listitem><para>Bromspedaler</para></listitem>
-      <listitem><para>Gaspedal</para></listitem>
+      <listitem>
+        <para>Kontroll- och varningslampor</para>
+      </listitem>
+      <listitem>
+        <para>Kylvattentemperaturmätare</para>
+      </listitem>
+      <listitem>
+        <para>Signalhorn</para>
+      </listitem>
+      <listitem>
+        <para>Reglage för belysning och
+        vindrutetorkare</para>
+      </listitem>
+      <listitem>
+        <para>Gruppväxelspak; R&#x2013;I&#x2013;III</para>
+      </listitem>
+      <listitem>
+        <para>Kopplingspedal</para>
+      </listitem>
+      <listitem>
+        <para>Parkeringsbroms</para>
+      </listitem>
+      <listitem>
+        <para>Huvudströmbrytare</para>
+      </listitem>
+      <listitem>
+        <para>Bränslemätare</para>
+      </listitem>
+      <listitem>
+        <para>Varvtalsmätare</para>
+      </listitem>
+      <listitem>
+        <para>Handgasspak</para>
+      </listitem>
+      <listitem>
+        <para>Ratt</para>
+      </listitem>
+      <listitem>
+        <para>Tändningsnyckel</para>
+      </listitem>
+      <listitem>
+        <para>Stegväxelspak; 1&#x2013;4</para>
+      </listitem>
+      <listitem>
+        <para>Bromspedaler</para>
+      </listitem>
+      <listitem>
+        <para>Gaspedal</para>
+      </listitem>
     </orderedlist>
-  </section>
+
+  </section><!-- Fiat 45-66 (Abel och Kain) -->
 
   <section>
     <title>Hürlimann XA655 (Kermit)</title>
@@ -78,27 +109,60 @@
     <para>Se <xref linkend="fig_interiör_hürlimann_xa655" /></para>
 
     <orderedlist numeration="arabic">
-      <listitem><para>Huvudströmbrytare</para></listitem>
-      <listitem><para>Oljetemperaturmätare</para></listitem>
-      <listitem><para>Kontroll- och varningslampor</para></listitem>
-      <listitem><para>Signalhorn</para></listitem>
-      <listitem><para>Ratt</para></listitem>
-      <listitem><para>Bromspedaler</para></listitem>
-      <listitem><para>Kopplingspedal</para></listitem>
-      <listitem><para>Gaspedal</para></listitem>
-      <listitem><para>Parkeringsbroms</para></listitem>
-      <listitem><para>Varvtalsmätare</para></listitem>
-      <listitem><para>Bränslemätare</para></listitem>
-      <listitem><para>Start- och stoppknapp<footnote><para>Stoppknappen skapar
-      ofta förvirring, då tanken är att man stänger av motorn genom att dra ut
-      knappen, vilket betyder att man måste trycka in stoppknappen för att kunna
-      starta!</para></footnote></para></listitem>
-      <listitem><para>Tändningsnyckel</para></listitem>
-      <listitem><para>Stegväxelspak; 1&#x2013;5</para></listitem>
-      <listitem><para>Gruppväxelspak;
-      R&#x2013;Sköldpadda&#x2013;Kanin</para></listitem>
-      <listitem><para>Handgasspak</para></listitem>
+      <listitem>
+        <para>Huvudströmbrytare</para>
+      </listitem>
+      <listitem>
+        <para>Oljetemperaturmätare</para>
+      </listitem>
+      <listitem>
+        <para>Kontroll- och varningslampor</para>
+      </listitem>
+      <listitem>
+        <para>Signalhorn</para>
+      </listitem>
+      <listitem>
+        <para>Ratt</para>
+      </listitem>
+      <listitem>
+        <para>Bromspedaler</para>
+      </listitem>
+      <listitem>
+        <para>Kopplingspedal</para>
+      </listitem>
+      <listitem>
+        <para>Gaspedal</para>
+      </listitem>
+      <listitem>
+        <para>Parkeringsbroms</para>
+      </listitem>
+      <listitem>
+        <para>Varvtalsmätare</para>
+      </listitem>
+      <listitem>
+        <para>Bränslemätare</para>
+      </listitem>
+      <listitem>
+        <para>Start- och stoppknapp<footnote><para>Stoppknappen skapar
+        ofta förvirring, då tanken är att man stänger av motorn genom att dra ut
+        knappen, vilket betyder att man måste trycka in stoppknappen för att kunna
+        starta!</para></footnote></para>
+      </listitem>
+      <listitem>
+        <para>Tändningsnyckel</para>
+      </listitem>
+      <listitem>
+        <para>Stegväxelspak; 1&#x2013;5</para>
+      </listitem>
+      <listitem>
+        <para>Gruppväxelspak;
+        R&#x2013;Sköldpadda&#x2013;Kanin</para>
+      </listitem>
+      <listitem>
+        <para>Handgasspak</para>
+      </listitem>
     </orderedlist>
-  </section>
+
+  </section><!-- Hürlimann XA655 (Kermit) -->
 
 </appendix>

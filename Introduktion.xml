@@ -15,7 +15,8 @@
     tips för att få arbetet att fungera som bäst.  Boken kan användas som
     referens, men vad som är <quote>rätt</quote> eller <quote>fel</quote> måste
     avgöras med sunt förnuft.</para>
-  </section>
+
+  </section><!-- Regler -->
 
   <section>
     <title>Språk</title>
@@ -23,7 +24,8 @@
     <para>På Vässarö i allmänhet och på Traktor i synnerhet används många
     slanguttryck.  Texten i boken undviker att använda sådana som inte är
     vedertagna namn och begrepp.</para>
-  </section>
+
+  </section><!-- Språk -->
 
   <section>
     <title>Vem ska läsa boken?</title>
@@ -34,7 +36,8 @@
 
     <para>Även de som kört förut kan ha nytta av att slå upp enskilda stycken,
     för att uppdatera sina kunskaper eller kanske lära sig något nytt.</para>
-  </section>
+
+  </section><!-- Vem ska läsa boken? -->
 
   <section>
     <title>Bokens tillkomst</title>
@@ -44,5 +47,7 @@
     liknande bok, men den hade blivit inaktuell och var aldrig komplett.
     Dåvarande fordonskommitté skrev boken under inrådan av bland andra
     ö-chefen.</para>
-  </section>
+
+  </section><!-- Bokens tillkomst -->
+
 </preface>

@@ -11,7 +11,9 @@
 
   <section>
     <title>Karta över öns hus</title>
+
     <!-- TODO -->
+
   </section>
 
   <section>
@@ -20,7 +22,9 @@
       <primary>dass</primary>
       <secondary>karta</secondary>
     </indexterm>
+
     <!-- TODO -->
+
   </section>
 
   <indexterm startref="idx_kartor" class="endofrange" />

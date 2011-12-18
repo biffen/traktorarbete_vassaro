@@ -20,7 +20,8 @@
     (<glossterm linkend="gandalf">Gandalf</glossterm>).  Fiatarna är i stort
     sett likadana, Kermit är lite större och har fyrhjulsdrift (som normalt inte
     är tillslagen).</para>
-  </section>
+
+  </section><!-- Traktorer -->
 
   <section>
     <title>Släp</title>
@@ -108,6 +109,7 @@
       vanliga släpen, så be om råd första gången från någon som kört släpet
       förut.</para>
     </sect2>
+
   </section>
 
   <section>
@@ -115,6 +117,7 @@
     <indexterm>
       <primary>radio</primary>
     </indexterm>
+
   </section>
 
   <section>
@@ -135,5 +138,7 @@
 
     <para>I övrigt oöm klädsel är att rekommendera.  Ett par arbetshandskar
     kommer ofta till användning.</para>
+
   </section>
+
 </chapter>

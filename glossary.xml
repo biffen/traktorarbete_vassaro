@@ -14,7 +14,7 @@
       </glossdef>
     </glossentry>
 
-  </glossdiv>
+  </glossdiv><!-- A -->
 
   <glossdiv>
     <title>B</title>
@@ -34,7 +34,7 @@
       </glossdef>
     </glossentry>
 
-  </glossdiv>
+  </glossdiv><!-- B -->
 
   <glossdiv>
     <title>D</title>
@@ -75,7 +75,7 @@
       </glossdef>
     </glossentry>
 
-  </glossdiv>
+  </glossdiv><!-- D -->
 
   <glossdiv>
     <title>G</title>
@@ -93,6 +93,7 @@
         <para>Grön plasttunna i vilken man slänger matrester och annat
         komposterbart. Får <emphasis>aldrig</emphasis> användas till
         dass.</para>
+
         <glossseealso otherterm="dasstunna">Dasstunna</glossseealso>
       </glossdef>
     </glossentry>
@@ -104,7 +105,7 @@
       </glossdef>
     </glossentry>
 
-  </glossdiv>
+  </glossdiv><!-- G -->
 
   <glossdiv>
     <title>I</title>
@@ -116,7 +117,7 @@
       </glossdef>
     </glossentry>
 
-  </glossdiv>
+  </glossdiv><!-- I -->
 
   <glossdiv>
     <title>K</title>
@@ -149,7 +150,7 @@
       </glossdef>
     </glossentry>
 
-  </glossdiv>
+  </glossdiv><!-- K -->
 
   <glossdiv>
     <title>L</title>
@@ -168,7 +169,7 @@
       </glossdef>
     </glossentry>
 
-  </glossdiv>
+  </glossdiv><!-- L -->
 
   <glossdiv>
     <title>M</title>
@@ -180,7 +181,7 @@
       </glossdef>
     </glossentry>
 
-  </glossdiv>
+  </glossdiv><!-- M -->
 
   <glossdiv>
     <title>R</title>
@@ -192,7 +193,7 @@
       </glossdef>
     </glossentry>
 
-  </glossdiv>
+  </glossdiv><!-- R -->
 
   <glossdiv>
     <title>S</title>
@@ -211,7 +212,7 @@
       </glossdef>
     </glossentry>
 
-  </glossdiv>
+  </glossdiv><!-- S -->
 
   <glossdiv>
     <title>T</title>
@@ -252,7 +253,7 @@
       </glossdef>
     </glossentry>
 
-  </glossdiv>
+  </glossdiv><!-- T -->
 
   <glossdiv>
     <title>V</title>
@@ -264,7 +265,7 @@
       </glossdef>
     </glossentry>
 
-  </glossdiv>
+  </glossdiv><!-- V -->
 
   <glossdiv>
     <title>Ä</title>
@@ -276,6 +277,6 @@
       </glossdef>
     </glossentry>
 
-  </glossdiv>
+  </glossdiv><!-- Ä -->
 
 </glossary>
