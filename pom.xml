@@ -1,0 +1,79 @@
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <name>Traktorarbete Vässarö</name>
+  <groupId>net.vassaro.fk</groupId>
+  <artifactId>traktorarbete-vassaro</artifactId>
+  <version>0.3</version>
+  <packaging>pom</packaging>
+  <organization>
+    <name>Fordonskommittén</name>
+  </organization>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+
+  <dependencies>
+    <dependency>
+      <groupId>net.sf.offo</groupId>
+      <artifactId>fop-hyph</artifactId>
+      <version>1.2</version>
+    </dependency>
+  </dependencies>
+
+  <build>
+
+    <plugins>
+
+      <plugin>
+        <artifactId>docbkx-maven-plugin</artifactId>
+        <groupId>com.agilejava.docbkx</groupId>
+        <version>2.0.14</version>
+        <dependencies>
+          <dependency>
+            <groupId>net.sf.docbook</groupId>
+            <artifactId>docbook-xml</artifactId>
+            <version>5.0-all</version>
+            <classifier>resources</classifier>
+            <type>zip</type>
+            <scope>runtime</scope>
+          </dependency>
+        </dependencies>
+        <executions>
+          <execution>
+            <goals>
+              <goal>generate-html</goal>
+              <goal>generate-pdf</goal>
+            </goals>
+            <phase>compile</phase>
+          </execution>
+        </executions>
+        <configuration>
+
+          <includes>Traktorarbete_Vassaro.xml</includes>
+
+          <entities>
+            <entity>
+              <name>version</name>
+              <value>${project.version}</value>
+            </entity>
+          </entities>
+
+          <chunkedOutput>false</chunkedOutput>
+
+          <xincludeSupported>true</xincludeSupported>
+          <generatedSourceDirectory>${project.build.directory}/xinclude</generatedSourceDirectory>
+
+          <foCustomization>src/docbkx/xsl/vassaro-fo.xsl</foCustomization>
+          <htmlCustomization>src/docbkx/xsl/vassaro-html.xsl</htmlCustomization>
+
+        </configuration>
+      </plugin>
+
+    </plugins>
+
+  </build>
+
+</project>

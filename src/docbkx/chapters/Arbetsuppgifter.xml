@@ -1,4 +1,7 @@
-<chapter>
+<?xml version='1.0' encoding="utf-8" ?>
+<chapter xmlns="http://docbook.org/ns/docbook"
+         version="5.0"
+         lang="sv" >
   <title>Arbetsuppgifter</title>
 
   <section>

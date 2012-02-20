@@ -5,7 +5,7 @@
       lang="sv" >
   <info>
     <title>Traktorarbete Vässarö</title>
-    <edition>0.3</edition>
+    <edition><?eval ${project.version} ?></edition>
     <copyright>
       <year>2011</year>
       <holder>Theo Willows</holder>
@@ -16,7 +16,8 @@
       href="http://www.gnu.org/copyleft/fdl.html"><citetitle
       pubwork="webpage">GNU Free Documentation License</citetitle></link>
       (version 1.3 eller någon senare version publiserad av Free Software
-      Foundation) utan förändrade avsnitt eller omgärdande text.</para>
+      Foundation) utan förändrade avsnitt eller omgärdande text.
+      </para>
     </legalnotice>
     <author>
       <orgname class="nonprofit">Fordonskommittén</orgname>
@@ -30,7 +31,20 @@
         </personname>
       </person>
     </collab>
+
     <revhistory>
+      <revision>
+        <revnumber>0.1</revnumber>
+        <authorinitials>TW</authorinitials>
+        <revremark>Första utkast</revremark>
+      </revision>
+
+      <revision>
+        <revnumber>0.2</revnumber>
+        <authorinitials>TW</authorinitials>
+        <revremark>Några ändringar efter utvärdering</revremark>
+      </revision>
+
       <revision>
         <revnumber>0.3</revnumber>
         <date>2011-07-21</date>
@@ -38,19 +52,21 @@
         <revremark>Flytt från LaTeX till DocBook</revremark>
       </revision>
     </revhistory>
+
   </info>
 
-  <xi:include href="Introduktion.xml" />
-  <xi:include href="Utrustning.xml" />
-  <xi:include href="Viktiga_platser.xml" />
-  <xi:include href="Att_kora_traktor.xml" />
-  <xi:include href="Arbetsuppgifter.xml" />
-  <xi:include href="Traktorvard.xml" />
+  <xi:include href="preface/Introduktion.xml" />
 
-  <xi:include href="bil_Traktorernas_interior.xml" />
-  <xi:include href="bil_Kartor.xml" />
+  <xi:include href="chapters/Utrustning.xml" />
+  <xi:include href="chapters/Viktiga_platser.xml" />
+  <xi:include href="chapters/Att_kora_traktor.xml" />
+  <xi:include href="chapters/Arbetsuppgifter.xml" />
+  <xi:include href="chapters/Traktorvard.xml" />
 
-  <xi:include href="glossary.xml" />
+  <xi:include href="appendices/Traktorernas_interior.xml" />
+  <xi:include href="appendices/Kartor.xml" />
+
+  <xi:include href="glossary/glossary.xml" />
 
   <index />
 
